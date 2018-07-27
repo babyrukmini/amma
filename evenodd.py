@@ -1,7 +1,6 @@
-num=int(input())
-if(num<0) :
-	print ("invalid")
-elif(num%2==0):
-	print ("Even")
+n=['a','e','i','o','u','A','E','I','O','U']
+b=str(input("enter the letter"))
+if(b in n):
+	print ( "Vowel")
 else:
-           print ("Odd")
+           print ("Consonant")
