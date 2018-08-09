@@ -1,5 +1,5 @@
-a=int(input())
+r=int(input())
 b=int(input())
-for i in range(a,b+1):
+for i in range(r,b+1):
     if(i%2!=0):
         print(i)
