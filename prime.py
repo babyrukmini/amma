@@ -6,4 +6,4 @@ for i in range(2,b//2+1):
 if(k<=0):
     print("yes")
 else:
-    print(" no")
+    print("no")
