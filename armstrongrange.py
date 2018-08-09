@@ -8,4 +8,4 @@ for i in range(n):
 		result=result+digit**n
 		i=i//10
 		if(num==result):
-			print(num)
+			print(num,end" ")
