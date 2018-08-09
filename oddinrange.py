@@ -1,4 +1,4 @@
-r,b=map(int,input().split())
-for i in range(r,b):
+r,j=map(int,input().split())
+for i in range(r,j):
 	if(i%2!=0):
 		print(i,end=" ")
