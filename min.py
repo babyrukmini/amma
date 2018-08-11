@@ -1,2 +1,2 @@
-list=[int(x) for x in input().split()]
+list=[int(y) for y in input().split()]
 print(min(list))
